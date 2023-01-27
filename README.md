@@ -8,7 +8,7 @@ I'm **pr0xy_**, a **24 years** old **Full Stack Developer** and a part-time **ca
 
 I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at **University of Los Santos (ULSA)**. I love to learn about how things work and try new tools and technologies.
 
-<h2> / <facts/> /</h2>
+<h2> / <facts /> /</h2>
   
 - ⭐ currently working on **web & application development**
 - 💀 mostly working on **private repositories**
