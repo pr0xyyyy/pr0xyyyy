@@ -2,7 +2,12 @@
 <div>
 <img align="right" width="400" alt="pr0xy" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"/>
 
-<h2> / about me /</h2>
+<h2> / yep, that's me / </h2>
+I'm pr0xy_, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
+
+I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+
+<h2> / little more of me /</h2>
   
 - ⭐ currently working on **web & application development**
 - 💀 mostly working on **private repositories**
@@ -18,7 +23,7 @@
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+    <img src = "https://img.shields.io/badge/C%23-ASP.NET-blue" alt = "asp.net" />
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
