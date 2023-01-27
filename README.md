@@ -13,8 +13,8 @@ I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at **Unive
 - ⭐ currently working on **web & application development**
 - 💀 mostly working on **private repositories**
 - 👾 a **casual guy** working his way around things
-- 💬 Ask me anything about technology, programming or cars
-- 📫 ping me at @ [Facefinder](https://face.octans.hu/pr0xy38 "Facefinder")
+- 💬 ama about **technology**, **programming** or **cars**
+- 📫 reach me out at @ [Facefinder](https://face.octans.hu/pr0xy38 "Facefinder")
   
 <h2> / current skills / </h2>
   
