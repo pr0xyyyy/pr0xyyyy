@@ -14,7 +14,7 @@ I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at **Unive
 - 💀 mostly working on **private repositories**
 - 👾 a **casual guy** working his way around things
 - 💬 Ask me anything about technology, programming or cars
-- 📫 ping me at @ ![alt text](https://face.octans.hu/pr0xy38 "Facefinder")
+- 📫 ping me at @ [I'm an inline-style link with title](https://face.octans.hu/pr0xy38 "Facefinder")
   
 <h2> / current skills / </h2>
   
