@@ -4,15 +4,17 @@
 
 <h2> / yep, that's me /</h2>
 
-I'm **pr0xy_**, a **Full Stack Developer** and a part-time car enthusiast. Yes, that type of guy, who loves cars and everything about them; can talk at length about cars without getting tired of it.
+I'm **pr0xy_**, a **Full Stack Developer** and a part-time **car enthusiast**. Yes, that type of guy, who loves cars and everything about them; can talk at length about cars without getting tired of it.
 
-I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at University of Los Santos (ULSA). I love to learn about how things work and try new tools and technologies.
+I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at **University of Los Santos (ULSA)**. I love to learn about how things work and try new tools and technologies.
 
 <h2> / little more of me /</h2>
   
 - ⭐ currently working on **web & application development**
 - 💀 mostly working on **private repositories**
 - 👾 a **casual guy** working his way around things
+- 💬 Ask me anything about technology, programming or cars
+- 📫 ping me at @ <a url=https://face.octans.hu/pr0xy38>Facefinder</a>
   
 <h2> / current skills / </h2>
   
