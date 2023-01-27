@@ -22,7 +22,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
   - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
     <img src = "https://img.shields.io/badge/C%23-ASP.NET-blue.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "asp.net" />
   
 - <h4> frameworks & libraries </h4>
