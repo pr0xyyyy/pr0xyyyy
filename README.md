@@ -4,7 +4,7 @@
 
 <h2> / yep, that's me /</h2>
 
-I'm **pr0xy_**, a **Full Stack Developer** and a part-time **car enthusiast**. Yes, that type of guy, who loves cars and everything about them; can talk at length about cars without getting tired of it.
+I'm **pr0xy_**, a **24 years** old **Full Stack Developer** and a part-time **car enthusiast**. Yes, that type of guy, who loves cars and everything about them; can talk at length about cars without getting tired of it.
 
 I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at **University of Los Santos (ULSA)**. I love to learn about how things work and try new tools and technologies.
 
