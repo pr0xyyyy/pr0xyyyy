@@ -6,7 +6,7 @@
 
 I'm **pr0xy_**, a **Full Stack Developer** and a part-time car enthusiast. Yes, that type of guy, who loves cars and everything about them; can talk at length about cars without getting tired of it.
 
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+I'm a **Software Engineer**. I did my Bachelor's in Software Engineer at University of Los Santos (ULSA). I love to learn about how things work and try new tools and technologies.
 
 <h2> / little more of me /</h2>
   
